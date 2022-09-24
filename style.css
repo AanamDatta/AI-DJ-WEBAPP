@@ -1,0 +1,25 @@
+#abc {
+    width: 100%;
+    margin: 0;
+}
+body {
+    background-image: url("background.jpg");
+}
+#div1 {
+    float: left;
+}
+.disk {
+    width: 30%;
+}
+#div2 {
+    float: right;
+}
+#note {
+    color: black;
+    padding-top: 10px !important;
+}
+
+canvas {
+    border: 5px white dotted;
+    border-radius: 5px;
+}
